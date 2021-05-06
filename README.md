@@ -5,10 +5,10 @@ This script uses geographic shapefiles and data from DC’s open data portal, an
 Two of the important libraries used in the analysis:
 <br>
 
-## **Pandas** <br>
-is one the python library which has functions similar to excel. Pandas data structure also contains labeled axes (rows and columns). Arithmetic operations align on both row and column labels. Can be thought of as a dict-like container for Series objects. Pandas makes it easier to interact with tabular structures and run multiple operations on them. <br>
+## **Pandas:** <br>
+Pandas is one the python library which has functions similar to excel. Pandas data structure also contains labeled axes (rows and columns). Arithmetic operations align on both row and column labels. Can be thought of as a dict-like container for Series objects. Pandas makes it easier to interact with tabular structures and run multiple operations on them. <br>
 
-## **GeoPandas** <br>
+## **GeoPandas:** <br>
 GeoPandas is a library that builds upon these capabilities and enables modeling of points, lines, and polygons from the GIS package Shapely. GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types. Geometric operations are performed by shapely. <br>
 <br>
 
