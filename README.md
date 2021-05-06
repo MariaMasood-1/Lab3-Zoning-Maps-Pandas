@@ -5,12 +5,15 @@ This script uses geographic shapefiles and data from DC’s open data portal, an
 Two of the important libraries used in the analysis:
 <br>
 
-##**Pandas** is one the python library which has functions similar to excel. Pandas data structure also contains labeled axes (rows and columns). Arithmetic operations align on both row and column labels. Can be thought of as a dict-like container for Series objects. Pandas makes it easier to interact with tabular structures and run multiple operations on them. <br>
+## **Pandas** <br>
+is one the python library which has functions similar to excel. Pandas data structure also contains labeled axes (rows and columns). Arithmetic operations align on both row and column labels. Can be thought of as a dict-like container for Series objects. Pandas makes it easier to interact with tabular structures and run multiple operations on them. <br>
 
-##**GeoPandas** GeoPandas is a library that builds upon these capabilities and enables modeling of points, lines, and polygons from the GIS package Shapely. GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types. Geometric operations are performed by shapely. <br>
+## **GeoPandas** <br>
+GeoPandas is a library that builds upon these capabilities and enables modeling of points, lines, and polygons from the GIS package Shapely. GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types. Geometric operations are performed by shapely. <br>
 <br>
 
-##**Carto:** Carto is the software technology used to analyze and visualize large amounts of location data. Analyzing location data at scale is critical to understand environmental topics like biodiversity loss or climate change, but it is also crucial for businesses in other industries such as Real Estate, Financial Services, Telecoms, Government and many more. It provides the opportunity to run spatial analysis on the location data while at the same time making it easier for the users to share their live analysis and results with their respective network.
+## **Carto:** <br>
+Carto is the software technology used to analyze and visualize large amounts of location data. Analyzing location data at scale is critical to understand environmental topics like biodiversity loss or climate change, but it is also crucial for businesses in other industries such as Real Estate, Financial Services, Telecoms, Government and many more. It provides the opportunity to run spatial analysis on the location data while at the same time making it easier for the users to share their live analysis and results with their respective network.
 
 
 
